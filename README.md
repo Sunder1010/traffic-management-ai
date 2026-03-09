@@ -2,6 +2,23 @@
 
 This project analyzes regional traffic data and uses data science techniques to understand traffic patterns.
 
+Goal:
+Analyze traffic patterns and predict congestion using machine learning.
+
+Features:
+- Traffic data analysis
+- Congestion detection
+- Traffic prediction model
+- Signal timing optimization
+- Interactive dashboard
+
+Tech stack:
+Python
+Pandas
+Scikit-learn
+Matplotlib
+Streamlit
+
 ## Dataset
 The dataset contains vehicle traffic counts categorized by:
 - Region
