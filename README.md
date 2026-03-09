@@ -64,3 +64,13 @@ This project includes a Streamlit dashboard for exploring traffic data.
 Run the dashboard:
 
 streamlit run traffic_dashboard.py
+
+## Traffic Signal Optimization
+
+This module recommends traffic signal timing based on vehicle congestion levels.
+
+Signal timing recommendation:
+
+- Light traffic → 60 seconds
+- Moderate traffic → 90 seconds
+- Heavy traffic → 120 seconds
