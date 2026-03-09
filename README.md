@@ -34,3 +34,15 @@ traffic-management-ai
 - Traffic congestion prediction using machine learning
 - Traffic trend forecasting
 - Smart traffic signal optimization
+
+  ## Machine Learning Model
+
+The project includes a Random Forest model that predicts total traffic volume based on vehicle categories.
+
+The model uses:
+- pedal cycles
+- two wheeled vehicles
+- cars and taxis
+- buses
+- light goods vehicles
+- heavy goods vehicles
