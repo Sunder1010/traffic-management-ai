@@ -56,3 +56,11 @@ Congestion is determined by comparing vehicle counts against the dataset average
 Outputs:
 - Congestion classification (High / Low)
 - Visualization of congestion distribution
+
+## Interactive Dashboard
+
+This project includes a Streamlit dashboard for exploring traffic data.
+
+Run the dashboard:
+
+streamlit run traffic_dashboard.py
