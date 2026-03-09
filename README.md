@@ -46,3 +46,13 @@ The model uses:
 - buses
 - light goods vehicles
 - heavy goods vehicles
+
+## Traffic Congestion Detection
+
+This module detects traffic congestion levels using traffic volume data.
+
+Congestion is determined by comparing vehicle counts against the dataset average.
+
+Outputs:
+- Congestion classification (High / Low)
+- Visualization of congestion distribution
